@@ -24,29 +24,6 @@ The end deliverable is a management-ready Excel dashboard and a polished present
 
 ---
 
-##  Repository Structure
-
-```
-manufacturing-downtime-analysis/
-│
-├── data/
-│   ├── cleaned_data.xlsx          # Cleaned operational dataset (10,000 records)
-│   └── D.xlsx                     # Raw source data
-│
-├── dashboard/
-│   └── Manufacturing_Dashboard.xlsx   # 5-sheet Excel dashboard
-│
-├── presentation/
-│   └── manufacturing_downtime.pptx    # 15-slide team presentation
-│
-├── analysis/
-│   └── insights_summary.md        # Key findings and recommendations
-│
-└── README.md
-```
-
----
-
 ##  Dataset
 
 | Field | Detail |
@@ -140,9 +117,4 @@ Raw Data → Data Cleaning → Data Modeling → KPI Calculation → Dashboard �
 - **Microsoft Excel** — final dashboard and formatting
 - **PowerPoint** — executive presentation (15 slides)
 
----
 
-## 📄 License
-
-This project was created for academic purposes as a final project submission.  
-© 2025 Team 1 — All rights reserved.
